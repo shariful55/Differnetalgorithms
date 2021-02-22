@@ -1,0 +1,13 @@
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.exe
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.deps.json
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.runtimeconfig.json
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.runtimeconfig.dev.json
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.dll
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.pdb
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.csprojAssemblyReference.cache
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.AssemblyInfoInputs.cache
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.AssemblyInfo.cs
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.csproj.CoreCompileInputs.cache
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.dll
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.pdb
+D:\CompetitiveProgramming\DictionaryPractice\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.genruntimeconfig.cache
